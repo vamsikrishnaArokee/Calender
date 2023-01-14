@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "moment": "2.29.4",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.11.0/docs/data/material/components/tables/BasicTable.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "keywords": [],
+  "name": "vamsi-calender-component",
+  "version": "0.0.27",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
